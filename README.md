@@ -1,1 +1,1 @@
-# Hi there, I'm Miikka, a data enthusiast. 👋
+## Hi there, I'm Miikka, a data enthusiast. 👋
