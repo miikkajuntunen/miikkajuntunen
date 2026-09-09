@@ -1,6 +1,5 @@
 ## 👋 Hi there, I am Miikka, a Master's Student in Business Analytics 
-Passionate about business development and data analytics. Currently building a strong foundation to becoming a Data Analyst.
-I'm on a mission to turn data into actionable intelligence. 🚀
+Passionate about business development and data analytics. 
 
 ## Portfolio
 Check out my portfolio, where I showcase my [projects](https://github.com/miikkajuntunen/portfolio).
